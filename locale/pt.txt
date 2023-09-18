@@ -19,9 +19,6 @@ panorama_810D8053_9305_1FAD_41AC_13FF01F52072.label = TIRO 01_INTERNA_CAM 03_360
 ### Image
 Image_D87C3D33_970B_61ED_41D7_778B9B05364F.url = skin/Image_D87C3D33_970B_61ED_41D7_778B9B05364F_pt.png
 
-### Label
-Label_DA1FA618_9706_E3DB_41B0_234D2ECCF4D2.text = Visualização para dispositivos móveis
-
 ## Tour
 
 ### Description
